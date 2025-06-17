@@ -1,4 +1,4 @@
-<h1 align="center">Mathieu Lescaudron&nbsp;👋</h1>
+<h1 align="center">Mathieu L&nbsp;👋</h1>
 <p align="center">
   <strong>Solutions Architect&nbsp;&nbsp;·&nbsp;&nbsp;AI&nbsp;/&nbsp;MLOps Engineer</strong><br/>
   🇫🇷 Born → 🇨🇦 Currently in Vancouver &nbsp;|&nbsp;
