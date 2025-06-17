@@ -2,7 +2,7 @@
 <p align="center">
   <strong>Solutions Architect&nbsp;&nbsp;·&nbsp;&nbsp;AI&nbsp;/&nbsp;MLOps Engineer</strong><br/>
   🇫🇷 Born → 🇨🇦 Currently in Vancouver &nbsp;|&nbsp;
-  <a href="https://mathieu.lescaudron.com">mathieu.lescaudron.com</a>
+  <a href="https://mathieu.lescaudron.com">Website</a>
 </p>
 
 <!-- Search-engines: pretty please, NO INDEX 🙏 -->
